@@ -1,0 +1,25 @@
+{
+  "name": "101232944_assignment2_backend",
+  "version": "1.0.0",
+  "description": "Assignment 02",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mongoose",
+    "MongoDB",
+    "express"
+  ],
+  "author": "Sanjay Kannan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
